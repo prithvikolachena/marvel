@@ -1,0 +1,34 @@
+.detail-section{
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    box-shadow: 0 4px 4px 0 rgba(215, 215, 215, 0.16);
+    width: 380px;
+    height: 550px;
+    margin-left: 884px;
+    margin-right: 176px;
+    padding-left: 10px;
+}
+input[type=text] {
+    width: 70%;
+    padding:  12px 20px;
+    margin: 8px 2px;
+    box-sizing: border-box;
+}
+button {
+    
+        background-color: #FFBB00;
+        border-radius: 4px;
+        width: 250px;
+        height: 48px;
+        text-decoration-color: black;
+        font-size: 14px;
+        font-family: Muli;
+        
+    
+}
+h6 {
+    margin-left: 180px;
+    padding-bottom: 10px;
+    
+}
